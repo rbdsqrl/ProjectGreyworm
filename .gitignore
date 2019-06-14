@@ -1,2 +1,5 @@
 Pipfile
 Pipfile.lock
+.vscode
+__pycache__
+project_greyworm/__pycache__
