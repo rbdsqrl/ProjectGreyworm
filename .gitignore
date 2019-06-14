@@ -3,3 +3,4 @@ Pipfile.lock
 .vscode
 __pycache__
 project_greyworm/__pycache__
+db.sqlite3
